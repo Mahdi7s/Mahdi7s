@@ -1,6 +1,6 @@
 # Hi, I am Mahdi 👋
 
-[![Outlook Badge](https://img.shields.io/static/v1?label=Mahdi_Mirdehghan&color=blue&logo=#0078D4&link=mailto:mirdehghan@outlook.com)](mailto:mirdehghan@outlook.com)
+[![Outlook Badge](https://img.shields.io/static/v1?label=Mahdi_Mirdehghan&message=emailcolor=blue&logo=#0078D4&link=mailto:mirdehghan@outlook.com)](mailto:mirdehghan@outlook.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mostafa%20Emami-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mostafa-emami-861570ab/)](https://linkedin.com/in/mostafa-emami-861570ab/) 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/emami7495/)](https://t.me/emami7495/)

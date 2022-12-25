@@ -1,10 +1,9 @@
 # Hi, I am Mahdi 👋
 
-[![Outlook Badge](https://img.shields.io/badge/-%20Mahdi%20Mirdehghan-blue?style=flat&color=blue&logo=microsoftoutlook&link=mailto:mirdehghan@outlook.com)](mailto:mirdehghan@outlook.com)
-[![Linkedin Badge](https://img.shields.io/badge/-%20Mahdi%20Mirdehghan-blue?style=flat&logo=Linkedin&logoColor=white&link=[https://linkedin.com/in/mahdimirdehghan/)](https://www.linkedin.com/in/mahdimirdehghan/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/mmirdehghanir)](https://t.me/mmirdehghanir)
-[![Skype Badge](https://img.shields.io/badge/-%20Skype-blue?style=flat&logo=skype&logoColor=white&link=live:mirdehghan)](live:mirdehghan)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mmirdehghan.ir/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mmirdehghanir)
+[![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](live:mirdehghan)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mirdehghan@outlook.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mmirdehghan.ir/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdimirdehghan/)
 
 ### I am a software engineer</br>To see my complete resume, you can [Visit My LinkedIn](https://www.linkedin.com/in/mahdimirdehghan/)</br> I have 9+ years experience in Full-Stack .Net development</br>If you need to do a project, I will be happy to have a friendly chat :)
@@ -32,6 +31,10 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Webassembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)

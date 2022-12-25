@@ -8,12 +8,13 @@
 
 ### I am a software engineer</br>To see my complete resume, you can [Visit My LinkedIn](https://www.linkedin.com/in/mahdimirdehghan/)</br> I have 9+ years experience in Full-Stack .Net development</br>If you need to do a project, I will be happy to have a friendly chat :)
 
-</br>
+
 <div style="display: flex; align-items: center;">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Mahdi7s&hide_border=false&include_all_commits=true&count_private=true" alt="Mahdi Mirdehghan's Github Stats" />
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi7s&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
-</br>
+</div></br>
+
+
 ![Dot Net Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -45,4 +46,5 @@
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
 
-</br>![](https://visitor-badge.glitch.me/badge?page_id=Mahdi7s.Mahdi7s)
+
+![](https://visitor-badge.glitch.me/badge?page_id=Mahdi7s.Mahdi7s)

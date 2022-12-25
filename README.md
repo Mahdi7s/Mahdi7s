@@ -5,7 +5,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/mmirdehghanir)](https://t.me/mmirdehghanir)
 [![Skype Badge](https://img.shields.io/badge/-%20Skype-blue?style=flat&logo=skype&logoColor=white&link=live:mirdehghan)](live:mirdehghan)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mmirdehghan.ir/)
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mahdimirdehghan/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdimirdehghan/)
 
 ### I am a software engineer</br>To see my complete resume, you can [Visit My LinkedIn](https://www.linkedin.com/in/mahdimirdehghan/)</br> I have 9+ years experience in Full-Stack .Net development</br>If you need to do a project, I will be happy to have a friendly chat :)
 

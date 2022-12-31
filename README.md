@@ -46,5 +46,16 @@
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
 
+you can see some of the successful mobile game and app projects that I developed (As a full stack .net developer mostly using C#, Unity, Asp.Net Core and Android Studio) by clicking the links below:
+
+[Word Slide Game](https://play.google.com/store/apps/details?id=wordslide.wordsearchgame.wordswipetour.crosswordstacks)
+[Stickers Social Network](https://play.google.com/store/apps/details?id=stickermakerforwhatsapp.wastickersfree.stickerpacks)
+[Brain Teaser Game](https://play.google.com/store/apps/details?id=brainteaser.trickypuzzles.riddlebraintest)
+[Tricky Puzzles Game](https://play.google.com/store/apps/details?id=brainout_brainlove.brainstory_braingames.trickypuzzles_whoislying)
+[Word Pic Swipe Game](https://play.google.com/store/apps/details?id=picturewordgame.wordpuzzle.crosswordsearch)
+[Word Links Game](https://play.google.com/store/apps/details?id=funwordlinks.wordsearchgame.crosswordscapes)
+[Riddle Game](https://play.google.com/store/apps/details?id=brainteasers.funiqtestandridles.mathpuzzleanswers)
+[Word Search Helper](https://play.google.com/store/apps/details?id=vm.gameanswers)
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Mahdi7s.Mahdi7s)

@@ -46,7 +46,7 @@ I am a software engineer To see my complete resume, you can [Visit My LinkedIn](
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
 
-you can see some of the successful mobile game and app projects that I developed (As a full stack .net developer mostly using C#, Unity, Asp.Net Core and Android Studio) by clicking the links below:
+To get an idea of my coding skills, you can browse [my repositories](https://github.com/Mahdi7s?tab=repositories) where I showcase some of my projects. I have also developed several mobile games and apps as a full stack .net developer, mainly using C#, Unity, Asp.Net Core and Android Studio. You can access them by following the links below:
 
 [Word Slide Game](https://play.google.com/store/apps/details?id=wordslide.wordsearchgame.wordswipetour.crosswordstacks) </br>
 [Stickers Social Network](https://play.google.com/store/apps/details?id=stickermakerforwhatsapp.wastickersfree.stickerpacks) </br>

@@ -10,7 +10,6 @@ I am a software engineer To see my complete resume, you can [Visit My LinkedIn](
 
 
 <div style="display: flex; align-items: center;">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Mahdi7s&hide_border=false&include_all_commits=true&count_private=true" alt="Mahdi Mirdehghan's Github Stats" />
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi7s&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div></br>
 

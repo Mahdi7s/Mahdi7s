@@ -9,11 +9,6 @@
 I am a software engineer To see my complete resume, you can [Visit My LinkedIn](https://www.linkedin.com/in/mahdimirdehghan/) I have 12 years experience in Full-Stack .Net development. If you need to do a project, I will be happy to have a friendly chat :)
 
 
-<div style="display: flex; align-items: center;">
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi7s&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div></br>
-
-
 ![Dot Net Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
